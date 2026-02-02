@@ -1,5 +1,5 @@
 {
-    'name': 'Time Off',
+    'name': 'Time',
     'version': '1.0',
     'application': True,
     'category': 'Human Resources',
