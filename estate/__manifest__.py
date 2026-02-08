@@ -1,5 +1,5 @@
 {
-    'name': 'State Management',
+    'name': 'Real estate',
     'version': '1.0',
     'category': 'Localization',
     'summary': 'Manage states for addresses or properties',
