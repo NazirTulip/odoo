@@ -5,7 +5,7 @@
     'summary': 'Manage properties',
     'author': 'Nazir',
     'description': 'This module manages properties and their information.',
-    'depends': ['base'],   # ✅ REQUIRED
+    'depends': ['base'],   
     'application': True,
     'installable': True,
     'data': [
